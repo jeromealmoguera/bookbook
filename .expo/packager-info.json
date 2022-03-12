@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "webpackServerPort": 19006,
+  "expoServerNgrokUrl": "https://x3-xde.jeromealmoguera.cookbook-main.exp.direct",
+  "packagerNgrokUrl": "https://packager.x3-xde.jeromealmoguera.cookbook-main.exp.direct",
+  "ngrokPid": 7360
+}
